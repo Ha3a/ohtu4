@@ -1,0 +1,3 @@
+Retrospektiivin tarkoituksena on auttaa ryhmää hahmoittamaan mitkä asiat ovat toimineet ja mitkä eivät projektin aikana.
+Reittejä tähän on useita, mutta pääasiallisesti tarkoitus on jakaa projektia hyviin ja huonoihin asioihin, työn sisältä ja ulkopuolelta.
+Tämä on tärkeä osa työskentelyä sillä tässä ääneen pääsevät kaikki, eli feedback tulee suoraan alueelta johon optimointia pyritään suuntaamaan.
